@@ -9,7 +9,6 @@
 ## 🔗 Live Demo
 
 > https://future-fs-02-crm-ten.vercel.app/
-
 ---
 
 ## ✨ Features
